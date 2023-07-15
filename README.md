@@ -48,5 +48,26 @@ Run the following command in the terminal to install the libraries mentioned abo
 pip3 install matplotlib==3.4.3 opencv-python==4.5.3.0 numpy==1.21.2 scikit-learn==1.0 joblib==1.0.1 jupyter==1.0.0
 ```
 
+## Usage
+To run and use the models, follow the steps given below:
+
+**1)** Run `Jupyter Notebook` using the following command
+
+```
+jupyter notebook
+```
+
+**2)** Go to the appropriate directory and open the `model.ipynb` file
+
+**3)** Run all the cells
+
+**4)** A file `savedModel.pkl` will be created, this is the saved model. You can use this saved model in any python script by loading it using the `joblib` library.
+
+```
+from joblib import load
+model = load("savedModel.pkl")
+#.........Rest of the python code
+```
+
 ## Credits
 The models available in this repository are created and trained by **Omanshu**.
