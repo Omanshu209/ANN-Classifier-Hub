@@ -30,4 +30,4 @@ The repository is organized as follows:
 ```
 
 ## Credits
-The models available in this repository is created and trained by **Omanshu**.
+The models available in this repository are created and trained by **Omanshu**.
