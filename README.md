@@ -43,7 +43,10 @@ joblib [v1.0.1]
 jupyter notebook [v1.0.0]
 ```
 Run the following command in the terminal to install the libraries mentioned above:
-
+```
+pip3 install -r requirements.txt
+```
+**OR**
 ```
 pip3 install matplotlib==3.4.3 opencv-python==4.5.3.0 numpy==1.21.2 scikit-learn==1.0 joblib==1.0.1 jupyter==1.0.0
 ```
