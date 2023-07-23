@@ -29,6 +29,8 @@ The repository is organized as follows:
   - /model.ipynb         # jupyter notebook
 
 - README.md              # Overview and instructions for using the repository
+
+- requirements.txt       # requirements.txt
 ```
 
 ## Requirements
