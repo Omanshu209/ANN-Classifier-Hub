@@ -37,11 +37,11 @@ The repository is organized as follows:
 To use the models, the following libraries must be installed:
 
 ```
-matplotlib [v3.4.3]
-OpenCV [v4.5.3.0]
-numpy [v1.21.2]
-scikit-learn [v1.0]
-joblib [v1.0.1]
+matplotlib       [v3.4.3]
+OpenCV           [v4.5.3.0]
+numpy            [v1.21.2]
+scikit-learn     [v1.0]
+joblib           [v1.0.1]
 jupyter notebook [v1.0.0]
 ```
 Run the following command in the terminal to install the libraries mentioned above:
