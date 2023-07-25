@@ -1,6 +1,11 @@
 # ANN Classifier Hub
 Welcome to this repository! **This repository contains various neural network models** for different tasks, including the `Chess Piece Classifier model`, `Vehicle Classifier model` and `Tomato OR Apple Classifier model`.
 
+<div align = "center">
+  
+  ![AltruisticInferiorFantail-max-1mb](https://github.com/Omanshu209/ANN_ClassifierHub/assets/114089324/98ebdcb0-12f6-4c09-b5d3-100dd9a24a20)
+</div>
+
 ## Models
 
 ### Chess Piece Classifier
