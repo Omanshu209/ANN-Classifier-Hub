@@ -1,5 +1,5 @@
 # ANN Classifier Hub
-Welcome to this repository! **This repository contains various neural network models** for different tasks, including the `Chess Piece Classifier model`, `Vehicle Classifier model` and `Tomato OR Apple Classifier model`.
+Welcome to this repository! This repository contains various **artificial neural network models** for different tasks, including the `Chess Piece Classifier model`, `Vehicle Classifier model` and `Tomato OR Apple Classifier model`.
 
 <div align = "center">
   
