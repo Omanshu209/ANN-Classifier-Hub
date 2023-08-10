@@ -1,5 +1,5 @@
 # ANN Classifier Hub
-Welcome to this repository! This repository contains various **artificial neural network models** for different tasks, including the `Chess Piece Classifier model`, `Vehicle Classifier model` and `Tomato OR Apple Classifier model`.
+Welcome to this repository! This repository contains various **artificial neural network models** for different tasks, including the `Brain Tumor Classifier`, `Chess Piece Classifier model`, `Vehicle Classifier model` and `Tomato OR Apple Classifier model`.
 
 <div align = "center">
   
@@ -7,6 +7,9 @@ Welcome to this repository! This repository contains various **artificial neural
 </div>
 
 ## Models
+
+### Brain Tumor Classifier
+The Chess Piece Classifier model is **designed to classify whether a patient is suffering from brain tumor or not**. It has been trained on a large dataset of brain images and utilizes deep learning techniques to achieve accurate classification.
 
 ### Chess Piece Classifier
 The Chess Piece Classifier model is **designed to classify images of chess pieces into their respective categories**. It has been trained on a large dataset of labeled chess piece images and utilizes deep learning techniques to achieve accurate classification. The model can be used to identify the type of chess piece present in an image, such as `King`, `Queen`, `Bishop`, `Knight`, `Rook`, or `Pawn`.
@@ -21,6 +24,12 @@ The Tomato OR Apple Classifier model is **designed to classify `tomatoes` and `a
 The repository is organized as follows:
 
 ```
+
+- /Brain Tumor Classifier
+  - /data                # data for training and testing
+  - /model.ipynb         # jupyter notebook
+  - /Brain Tumor.csv     # CSV file
+
 - /Chess Piece Classifier
   - /data                # data for training and testing
   - /model.ipynb         # jupyter notebook
@@ -46,6 +55,7 @@ matplotlib       [v3.4.3]
 OpenCV           [v4.5.3.0]
 numpy            [v1.21.2]
 scikit-learn     [v1.0]
+pandas           [v1.3.3]
 joblib           [v1.0.1]
 jupyter notebook [v1.0.0]
 ```
@@ -55,7 +65,7 @@ pip3 install -r requirements.txt
 ```
 **OR**
 ```
-pip3 install matplotlib==3.4.3 opencv-python==4.5.3.0 numpy==1.21.2 scikit-learn==1.0 joblib==1.0.1 jupyter==1.0.0
+pip3 install matplotlib==3.4.3 opencv-python==4.5.3.0 numpy==1.21.2 scikit-learn==1.0 joblib==1.0.1 jupyter==1.0.0 pandas==1.3.3
 ```
 
 ## Usage
