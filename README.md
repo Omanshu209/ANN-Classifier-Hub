@@ -1,5 +1,5 @@
 # ANN Classifier Hub
-Welcome to this repository! This repository contains various **artificial neural network models** for different tasks, including the `Brain Tumor Classifier`, `Chess Piece Classifier model`, `Vehicle Classifier model` and `Tomato OR Apple Classifier model`.
+Welcome to this repository! This repository contains various **artificial neural network models** for different tasks, including the `Brain Tumor Classifier`, `Chess Piece Classifier model` and `Pepsi OR Coca Cola Classifier`.
 
 <div align = "center">
   
@@ -9,10 +9,13 @@ Welcome to this repository! This repository contains various **artificial neural
 ## Models
 
 ### Brain Tumor Classifier
-The Chess Piece Classifier model is **designed to classify whether a patient is suffering from brain tumor or not**. It has been trained on a large dataset of brain images and utilizes deep learning techniques to achieve accurate classification.
+The Brain Tumor Classifier model is **designed to classify whether a patient is suffering from `brain tumor` or not**. It has been trained on a large dataset of brain images and utilizes deep learning techniques to achieve accurate classification.
 
 ### Chess Piece Classifier
 The Chess Piece Classifier model is **designed to classify images of chess pieces into their respective categories**. It has been trained on a large dataset of labeled chess piece images and utilizes deep learning techniques to achieve accurate classification. The model can be used to identify the type of chess piece present in an image, such as `King`, `Queen`, `Bishop`, `Knight`, `Rook`, or `Pawn`.
+
+### Pepsi OR Coca Cola Classifier
+The Pepsi OR Coca Cola Classifier model is **designed to classify a drink as `Pepsi` or `Coca Cola`**.
 
 ### Vehicle Classifier
 The Vehicle Classifier model is **designed to classify images of vehicles into different categories**, such as `car`, `truck`, `bike`, `cycle`, `bus`, `helicopter`, `scooty` and `plane`. It has been trained on a diverse dataset of labeled vehicle images. The model can identify the type of vehicle present in an image, making it useful for applications like traffic analysis, object detection, and more.
@@ -34,6 +37,10 @@ The repository is organized as follows:
   - /data                # data for training and testing
   - /model.ipynb         # jupyter notebook
 
+- /Pepsi OR Coca Cola Classifier
+  - /data                # data for training and testing
+  - /model.ipynb         # jupyter notebook
+
 - /Tomato OR Apple Classifier
   - /data                # data for training and testing
   - /model.ipynb         # jupyter notebook
@@ -41,6 +48,8 @@ The repository is organized as follows:
 - /Vehicle Classifier
   - /data                # data for training and testing
   - /model.ipynb         # jupyter notebook
+
+- LICENSE                # license
 
 - README.md              # Overview and instructions for using the repository
 
