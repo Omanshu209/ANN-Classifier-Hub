@@ -114,7 +114,7 @@ jupyter notebook
 
 **3)** Run all the cells
 
-**4)** A file `savedModel.pkl` will be created, this is the saved model. You can use this saved model in any python script by loading it using the `joblib` library.
+**4)** A file `savedModel.pkl` will be created(`or download it` from the link provided above in this README.md file), this is the saved model. You can use this saved model in any python script by loading it using the `joblib` library.
 
 ```
 from joblib import load
