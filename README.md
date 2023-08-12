@@ -21,7 +21,7 @@ Welcome to this repository! This repository contains various **artificial neural
 
 - `Description` : The Chess Piece Classifier model is **designed to classify images of chess pieces into their respective categories**. It has been trained on a large dataset of labeled chess piece images and utilizes deep learning techniques to achieve accurate classification. The model can be used to identify the type of chess piece present in an image, such as `King`, `Queen`, `Bishop`, `Knight`, `Rook`, or `Pawn`.
 
-- `Accuracy Score` : **0.6587301587301587**
+- `Accuracy Score` : **0.8253968253968254**
 
 
 ### Pepsi OR Coca Cola Classifier
