@@ -9,19 +9,41 @@ Welcome to this repository! This repository contains various **artificial neural
 ## Models
 
 ### Brain Tumor Classifier
-The Brain Tumor Classifier model is **designed to classify whether a patient is suffering from `brain tumor` or not**. It has been trained on a large dataset of brain images and utilizes deep learning techniques to achieve accurate classification.
+
+- `Description` : The Brain Tumor Classifier model is **designed to classify whether a patient is suffering from `brain tumor` or not**. It has been trained on a large dataset of brain images and utilizes deep learning techniques to achieve accurate classification.
+
+- `Accuracy Score` : **0.832**
+
+- `Model` : [**Available on Google Drive**](https://drive.google.com/file/d/11a29WPOhG8jvzIhn3RZ8vqys0PURo7OB/view?usp=drivesdk)
+
 
 ### Chess Piece Classifier
-The Chess Piece Classifier model is **designed to classify images of chess pieces into their respective categories**. It has been trained on a large dataset of labeled chess piece images and utilizes deep learning techniques to achieve accurate classification. The model can be used to identify the type of chess piece present in an image, such as `King`, `Queen`, `Bishop`, `Knight`, `Rook`, or `Pawn`.
+
+- `Description` : The Chess Piece Classifier model is **designed to classify images of chess pieces into their respective categories**. It has been trained on a large dataset of labeled chess piece images and utilizes deep learning techniques to achieve accurate classification. The model can be used to identify the type of chess piece present in an image, such as `King`, `Queen`, `Bishop`, `Knight`, `Rook`, or `Pawn`.
+
+- `Accuracy Score` : **0.6587301587301587**
+
 
 ### Pepsi OR Coca Cola Classifier
-The Pepsi OR Coca Cola Classifier model is **designed to classify a drink as `Pepsi` or `Coca Cola`**.
+
+- `Description` : The Pepsi OR Coca Cola Classifier model is **designed to classify a drink as `Pepsi` or `Coca Cola`**.
+
+- `Accuracy Score` : **0.9**
+
 
 ### Vehicle Classifier
-The Vehicle Classifier model is **designed to classify images of vehicles into different categories**, such as `car`, `truck`, `bike`, `cycle`, `bus`, `helicopter`, `scooty` and `plane`. It has been trained on a diverse dataset of labeled vehicle images. The model can identify the type of vehicle present in an image, making it useful for applications like traffic analysis, object detection, and more.
+
+- `Description` : The Vehicle Classifier model is **designed to classify images of vehicles into different categories**, such as `car`, `truck`, `bike`, `cycle`, `bus`, `helicopter`, `scooty` and `plane`. It has been trained on a diverse dataset of labeled vehicle images. The model can identify the type of vehicle present in an image, making it useful for applications like traffic analysis, object detection, and more.
+
+- `Accuracy Score` : **0.3888888888888889**
+
 
 ### Tomato OR Apple Classifier
-The Tomato OR Apple Classifier model is **designed to classify `tomatoes` and `apples`**.
+
+- `Description` : The Tomato OR Apple Classifier model is **designed to classify `tomatoes` and `apples`**.
+
+- `Accuracy Score` : **0.6494845360824743**
+
 
 ## Repository Structure
 The repository is organized as follows:
