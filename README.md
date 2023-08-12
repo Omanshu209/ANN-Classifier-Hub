@@ -23,6 +23,8 @@ Welcome to this repository! This repository contains various **artificial neural
 
 - `Accuracy Score` : **0.8253968253968254**
 
+- `Model` : [**Available on Google Drive**]((https://drive.google.com/file/d/11xXDLyP71muAhgM3hyYnnBCOjyNDskf-/view?usp=drivesdk))
+
 
 ### Pepsi OR Coca Cola Classifier
 
