@@ -46,6 +46,8 @@ Welcome to this repository! This repository contains various **artificial neural
 
 - `Accuracy Score` : **0.6804123711340206**
 
+- `Model` : [**Available on Google Drive**](https://drive.google.com/file/d/11yrMqLH9EhPUPzjgPXWj62kmrDSvu1bX/view?usp=drivesdk)
+
 
 ## Repository Structure
 The repository is organized as follows:
