@@ -14,6 +14,10 @@ Welcome to this repository! This repository contains various **artificial neural
 
 - `Accuracy Score` : **0.832**
 
+- `Precision` : **0.8725490196078431**
+
+- `Recall` : **0.7542372881355932**
+
 - `Model` : [**Available on Google Drive**](https://drive.google.com/file/d/11a29WPOhG8jvzIhn3RZ8vqys0PURo7OB/view?usp=drivesdk)
 
 
@@ -23,6 +27,10 @@ Welcome to this repository! This repository contains various **artificial neural
 
 - `Accuracy Score` : **0.8253968253968254**
 
+- `Precision` : **0.8398689721270367**
+
+- `Recall` : **0.8253968253968254**
+
 - `Model` : [**Available on Google Drive**](https://drive.google.com/file/d/11xXDLyP71muAhgM3hyYnnBCOjyNDskf-/view?usp=drivesdk)
 
 
@@ -31,6 +39,12 @@ Welcome to this repository! This repository contains various **artificial neural
 - `Description` : The Pepsi OR Coca Cola Classifier model is **designed to classify a drink as `Pepsi` or `Coca Cola`**.
 
 - `Accuracy Score` : **0.8833333333333333**
+
+- `Precision` : **0.96**
+
+- `Recall` : **0.8**
+
+- `Model` : [**Available on Google Drive**](https://drive.google.com/file/d/123kZCDZvAtYs3TXL-1SYpCAf2YQ4Nvho/view?usp=drivesdk)
 
 
 ### Vehicle Classifier
