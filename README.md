@@ -30,7 +30,7 @@ Welcome to this repository! This repository contains various **artificial neural
 
 - `Description` : The Pepsi OR Coca Cola Classifier model is **designed to classify a drink as `Pepsi` or `Coca Cola`**.
 
-- `Accuracy Score` : **0.9**
+- `Accuracy Score` : **0.8833333333333333**
 
 
 ### Vehicle Classifier
