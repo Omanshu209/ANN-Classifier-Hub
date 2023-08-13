@@ -44,7 +44,7 @@ Welcome to this repository! This repository contains various **artificial neural
 
 - `Description` : The Tomato OR Apple Classifier model is **designed to classify `tomatoes` and `apples`**.
 
-- `Accuracy Score` : **0.6494845360824743**
+- `Accuracy Score` : **0.6804123711340206**
 
 
 ## Repository Structure
