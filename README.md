@@ -1,7 +1,10 @@
-<h1>
-  ANN Classifier Hub
-  <img src = "https://github.com/Omanshu209/ANN_ClassifierHub/assets/114089324/aa692968-2503-4b77-9647-df239588401d" width = "30" />
-</h1>
+<div align = "center">
+  <h1>
+    <img src = "https://github.com/Omanshu209/ANN_ClassifierHub/assets/114089324/aa692968-2503-4b77-9647-df239588401d" width = "30px" />
+    ANN Classifier Hub
+    <img src = "https://github.com/Omanshu209/ANN_ClassifierHub/assets/114089324/aa692968-2503-4b77-9647-df239588401d" width = "30px" />
+  </h1>
+</div>
 
 Welcome to this repository! This repository contains various **artificial neural network models** for different tasks, including the `Brain Tumor Classifier`, `Chess Piece Classifier model` and `Pepsi OR Coca Cola Classifier`.
 
