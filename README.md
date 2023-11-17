@@ -77,24 +77,24 @@ The repository is organized as follows:
 
 - /Brain Tumor Classifier
   - /data                # data for training and testing
-  - /model.ipynb         # jupyter notebook
+  - /notebook.ipynb         # jupyter notebook
   - /Brain Tumor.csv     # CSV file
 
 - /Chess Piece Classifier
   - /data                # data for training and testing
-  - /model.ipynb         # jupyter notebook
+  - /notebook.ipynb         # jupyter notebook
 
 - /Pepsi OR Coca Cola Classifier
   - /data                # data for training and testing
-  - /model.ipynb         # jupyter notebook
+  - /notebook.ipynb         # jupyter notebook
 
 - /Tomato OR Apple Classifier
   - /data                # data for training and testing
-  - /model.ipynb         # jupyter notebook
+  - /notebook.ipynb         # jupyter notebook
 
 - /Vehicle Classifier
   - /data                # data for training and testing
-  - /model.ipynb         # jupyter notebook
+  - /notebook.ipynb         # jupyter notebook
 
 - LICENSE                # license
 
@@ -107,6 +107,12 @@ The repository is organized as follows:
 To use the models, the following libraries must be installed:
 
 ```
+torch            [v2.1.0+cu118]
+torchaudio       [v2.1.0+cu118]
+torchdata        [v0.7.0]
+torchsummary     [v1.5.1]
+torchtext        [v0.16.0]
+torchvision      [v0.16.0+cu118]
 matplotlib       [v3.4.3]
 OpenCV           [v4.5.3.0]
 numpy            [v1.21.2]
@@ -119,10 +125,6 @@ Run the following command in the terminal to install the libraries mentioned abo
 ```
 pip3 install -r requirements.txt
 ```
-**OR**
-```
-pip3 install matplotlib==3.4.3 opencv-python==4.5.3.0 numpy==1.21.2 scikit-learn==1.0 joblib==1.0.1 jupyter==1.0.0 pandas==1.3.3
-```
 
 ## Usage
 To run and use the models, follow the steps given below:
@@ -133,17 +135,11 @@ To run and use the models, follow the steps given below:
 jupyter notebook
 ```
 
-**2)** Go to the appropriate directory and open the `model.ipynb` file
+**2)** Go to the appropriate directory and open the `notebook.ipynb` file
 
 **3)** Run all the cells
 
-**4)** A file `savedModel.pkl` will be created(`or download it` from the link provided above in this README.md file), this is the saved model. You can use this saved model in any python script by loading it using the `joblib` library.
-
-```
-from joblib import load
-model = load("savedModel.pkl")
-#.........Rest of the python code
-```
+**4)** A file `savedModel.pkl` or `....pt` will be created(`or download it` from the link provided above in this README.md file), this is the saved model.
 
 ## Credits
-The models available in this repository are created and trained by **Omanshu**.
+The notebooks and models available in this repository are created and trained by **Omanshu**.
