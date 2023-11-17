@@ -15,6 +15,20 @@ Welcome to this repository! This repository contains various **artificial neural
 
 ## Models
 
+### Airline Passenger Satisfacton Classifier
+
+- `Description` : The Airline Passenger Satisfacton Classifier model is **designed to classify whether a passenger is satisfied from his/her experience in the airline or not**. It has been trained on a large dataset and utilizes deep learning techniques to achieve accurate classification.
+
+- `Accuracy Score` : **0.9199645826917154**
+
+- `Precision` : **0.9186422413793104**
+
+- `Recall` : **0.897132333596422**
+
+- `F1 Score` : **0.9077598828696926**
+
+- `Model` : **Available in the folder itself**
+
 ### Brain Tumor Classifier
 
 - `Description` : The Brain Tumor Classifier model is **designed to classify whether a patient is suffering from `brain tumor` or not**. It has been trained on a large dataset of brain images and utilizes deep learning techniques to achieve accurate classification.
