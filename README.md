@@ -74,27 +74,31 @@ Welcome to this repository! This repository contains various **artificial neural
 The repository is organized as follows:
 
 ```
+- /Airline Passenger Satisfacton Classifier
+  - /data                # data for training and testing
+  - /model               # saved model
+  - /notebook.ipynb      # jupyter notebook
 
 - /Brain Tumor Classifier
   - /data                # data for training and testing
-  - /notebook.ipynb         # jupyter notebook
+  - /notebook.ipynb      # jupyter notebook
   - /Brain Tumor.csv     # CSV file
 
 - /Chess Piece Classifier
   - /data                # data for training and testing
-  - /notebook.ipynb         # jupyter notebook
+  - /notebook.ipynb      # jupyter notebook
 
 - /Pepsi OR Coca Cola Classifier
   - /data                # data for training and testing
-  - /notebook.ipynb         # jupyter notebook
+  - /notebook.ipynb      # jupyter notebook
 
 - /Tomato OR Apple Classifier
   - /data                # data for training and testing
-  - /notebook.ipynb         # jupyter notebook
+  - /notebook.ipynb      # jupyter notebook
 
 - /Vehicle Classifier
   - /data                # data for training and testing
-  - /notebook.ipynb         # jupyter notebook
+  - /notebook.ipynb      # jupyter notebook
 
 - LICENSE                # license
 
@@ -139,7 +143,7 @@ jupyter notebook
 
 **3)** Run all the cells
 
-**4)** A file `savedModel.pkl` or `....pt` will be created(`or download it` from the link provided above in this README.md file), this is the saved model.
+**4)** A file `savedModel.pkl` or `*****.pt` will be created(`or download it` from the link provided above in this README.md file), this is the saved model.
 
 ## Credits
 The notebooks and models available in this repository are created and trained by **Omanshu**.
